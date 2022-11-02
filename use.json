@@ -10,7 +10,7 @@
 		"down": "https://www.spooferx.app/ipa/SpooferPro-0.251.2-0.105.ipa",
 		"category": "Tweaks",
 		"description": "We tried our best to find it, but we didn’t do it to the end.",
-		"bundleID": "com.google.ios.unfinished",
-		"appstore": "com.google.ios.unfinished",
-	}],
+		"bundleID": "com.nianticlabs.pokemongo",
+		"appstore": "com.nianticlabs.pokemongo",
+	}]
 }
