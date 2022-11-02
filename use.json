@@ -7,15 +7,10 @@
 		"name": "Undefined Tweak",
 		"version": "1.0.0",
                 "icon": "https://raw.githubusercontent.com/vladusyaa/vrepo/main/meta/8051547A-90CA-485B-A23F-329E1C5D1627.png",
-		"down": "-",
+		"down": "https://www.spooferx.app/ipa/SpooferPro-0.251.2-0.105.ipa",
 		"category": "Tweaks",
 		"description": "We tried our best to find it, but we didn’t do it to the end.",
 		"bundleID": "com.google.ios.unfinished",
 		"appstore": "com.google.ios.unfinished",
-		"contact": {
-			"web": "https://repo.twickd.com",
-			"twitter": "https://twitter.com/twickdrepo"
-		}
-	}]
-
+	}],
 }
